@@ -1,0 +1,6 @@
+numpy==1.19.0
+Pillow==7.2.0
+six==1.15.0
+# Editable Git install with no remote (TicTacToePython==2.0)
+-e .\tictactoepython
+wxPython==4.1.0
